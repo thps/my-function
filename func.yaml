@@ -1,0 +1,8 @@
+specVersion: 0.36.0
+name: my-function
+runtime: go
+created: 2024-06-24T08:56:48.494962-06:00
+build:
+  git:
+    url: https://github.com/thps/my-function.git
+    revision: main
